@@ -1,0 +1,268 @@
+
+#innerhead h3
+{
+background-color: #37707D;
+color: #FFFFFF !important;
+font-family: "Open Sans",sans-serif !important;
+font-size: 16px !important;
+font-weight: 700 !important;
+margin-top: -10px;
+//margin: 6px 0 15px 20px;
+padding: 25px;
+
+}
+
+
+#innerheader {
+background-color: #37707D;
+color: #FFFFFF !important;
+font-family: "Open Sans",sans-serif !important;
+font-size: 16px !important;
+font-weight: 700 !important;
+margin-top: -10px;
+//margin: 6px 0 15px 20px;
+padding: 25px; 
+} 
+
+
+#inneroptions {
+color: #004d40 !important;
+font-family: "Open Sans",sans-serif !important;
+font-size: 14px !important;
+font-weight: bold !important;
+}
+
+#innertext {
+    color: #004d40 !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    font-family: "Open Sans",sans-serif !important;
+}
+
+#formtext {
+color: #333 !important;
+font-family: "Open Sans",sans-serif !important;
+font-size: 14px !important;
+font-weight: 700 !important;
+/*margin: 6px 0 15px 0px;	*/
+/*padding: 10px 0px; */
+}
+
+.headertabs
+{
+	margin-top:30px;
+}
+
+.headertab
+{
+	padding:10px;
+	border:1px solid green;
+	border-radius: 5px 5px 0 0;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.smack-sugar-pro-pointer {
+	cursor: pointer;
+}
+.selected
+{
+	background-color:cyan;
+}
+
+.smack-ultimate-menu-link{
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        background: none repeat scroll 0 0 #E8F1F5;
+        color: #103A4D;
+        padding: 0.75em .5em;
+}
+
+.smack_pointer {
+	cursor: pointer;
+}
+
+.position-text-box {
+	background: white;
+	border: 1px solid #999;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #DDD inset;
+	color: #666;
+	outline: none;
+	border-radius: 5px;
+	text-align: center;
+	width: 40px;
+}
+
+th.smack-crm-free-list-view-th {
+	text-align: center;
+}
+
+
+.smack_alt {
+    background-color: #f9f9f9;
+}
+
+
+.smack-field-td-middleit {
+    text-align: center;
+}
+
+.smack_alt th h5 {
+    font-weight: bold;
+}
+
+th.smack-crm-free-list-view-th {
+	text-align: center;
+}
+
+.smack_highlight
+{
+    height: 40px;
+}
+
+.smack-crm-pro-highlight
+{
+    height: 50px;
+}
+
+.smack-crm-pro-alt{
+    background-color: #F9F9F9;
+}
+
+p.display_success {
+	height: 40px;
+	background-color: rgb(197, 255, 199);
+	color: green;
+	padding: 10px;
+	font-weight: bold;
+}
+p.display_failure {
+        height: 40px;
+        background-color: #F78592;
+        color: green;
+        padding: 10px;
+        font-weight: bold;
+}
+
+
+.settings-table td {
+	padding: 10px;
+	padding-left: 0px;
+}
+
+.activate {
+	color: #fff !important;
+	background-color: #0074A2;
+}
+
+.activate a{
+	color: #fff !important;
+}
+
+.deactivate a{
+	color: #fff !important;
+}
+
+.wp-common-crmwrapper{
+	background-color: #FAFAFA;
+	padding: 10px 0px 10px 0px;
+	overflow: hidden;
+	margin-right: 25px;
+	margin-top: 20px;
+}
+
+.wp-common-crmwrapper h3{
+	font: bold 14px Verdana;
+	text-decoration: none;
+	position: relative;
+	padding: 7px 22px;
+	color: #fff;
+	outline: none;
+	background: #222222;
+	border: 1px solid #333333;
+	margin-top: -10px;
+	/* text-transform: uppercase; */
+}
+
+.settings-table h5{
+	font-weight: bold;
+}
+
+.wp-common-crm-content{
+	padding-left: 20px; 
+}
+
+
+a.tooltip {
+    outline: none;
+}
+
+a.tooltip strong {
+    line-height: 20px;
+}
+
+a.tooltip:hover {
+    text-decoration: none;
+}
+
+a.tooltip span {
+    z-index: 10;
+    display: none;
+    padding: 3px 12px;
+}
+
+a.tooltip:hover span {
+    display: inline;
+    position: absolute;
+    color: #111;
+    border: 1px solid #DCA;
+    background: #fffAF0;
+}
+
+.callout {
+    z-index: 20;
+    position: absolute;
+    top: 8px;
+    border: 0;
+    left: -12px;
+}
+
+a.tooltip span {
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+
+    -moz-box-shadow: 5px 5px 8px #CCC;
+    -webkit-box-shadow: 5px 5px 8px #CCC;
+    box-shadow: 5px 5px 8px #CCC;
+}
+
+.tooltipCustompost {
+    margin-top: -27px;
+    margin-left: 27px;
+    width: 225px;
+    line-height: 30px;
+}
+
+.tooltipPostStatus {
+    min-height: 50px;
+    margin-top: -13px;
+    margin-left: 13px;
+    width: 325px;
+    line-height: 20px;
+    -webkit-margin-start: 28px;
+    -webkit-margin-end: 0px;
+    -webkit-margin-before: -28px;
+}
+
+.tooltipClearMapping {
+    margin-top: -13px;
+    margin-left: 13px;
+    width: 225px;
+    line-height: 30px;
+    -webkit-margin-start: 21px;
+    -webkit-margin-end: 0px;
+    -webkit-margin-before: -28px;
+}
+
