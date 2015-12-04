@@ -1,4 +1,4 @@
-## CRM Wordpress Leads ##
+## CRM WordPress Leads ##
 **Contributors:** smackcoders
 
 **Tags:** crm, admin, administration, automatic, contact, form, list, newsletter, plugin, shortcode, sidebar, widget, widgets, wordpress, vtiger, lead, wptiger, lead capture, form generator, form builder, contact sync, vtiger crm, optin form, form
@@ -17,24 +17,24 @@
 
 **License:** GPLv2 or later
  
-An easy automated and advanced leads builder for Wordpress to capture leads to one of your favourite CRM.
+An easy automated and advanced leads builder for WordPress to capture leads to one of your favourite CRM.
 
 #### Description ####
 
-Leads Builder For Any CRM is a common plugin that can handle VTiger, sugar crm, zoho crm and Sales force to capture or build leads directly from your wordpress site. Now you can generate forms directly in wordpress admin without any complicated html web forms. Generate web forms via user friendly plugin interface in few simple clicks as a short code. Use the short code which in turn used as a form in post, page or widget to convert your traffic/visitors as high potential leads to favourite CRM. Contact form 7 support added in the latest version.
+Leads Builder For Any CRM is a common plugin that can handle Vtiger, SugarCRM, Zoho CRM and Salesforce to capture or build leads directly from your WordPress site. Now you can generate forms directly in WordPress admin without any complicated html web forms. Generate web forms via user friendly plugin interface in few simple clicks as a short code. Use the short code which in turn used as a form in post, page or widget to convert your traffic/visitors as high potential leads to favourite CRM. Contact form 7 support added in the latest version.
 
 #### Just Few Simple Steps ####
 
-* Choose your crm in plugin settings
+* Choose your CRM in plugin settings
 * Configure you CRM with API details
 * Fetch fields from CRM module
 * Set up form fields in form builder
 * Use the short code any where in post, page or site wide widget
-* Wait watch leads get captured to crm 
+* Wait watch leads get captured to CRM 
 * It is so that simple as above
-* Added to this you can convert your wordpress members as CRM contacts
+* Added to this you can convert your WordPress members as CRM contacts
 
-[Deatailed Instructions and Manual](https://www.smackcoders.com/documentation/leads-builder-for-any-crm-from-wordpress/leads-builder-forrms-wordpress)
+[Detailed Instructions and Manual](https://www.smackcoders.com/documentation/leads-builder-for-any-crm-from-wordpress/leads-builder-forrms-wordpress)
 [Go pro Now](https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html)
 
 #### Advantage than default html web form methods ####
@@ -50,23 +50,23 @@ Leads Builder For Any CRM is a common plugin that can handle VTiger, sugar crm, 
 
 #### Highlights of 1.2.1 ####
 
-* Currently suppots four CRM to capture or build Leads
-	- VTiger CRM
-	- Sugar CRM
+* Currently supports four CRM to capture or build Leads
+	- Vtiger CRM
+	- SugarCRM
 	- Zoho CRM
-	- Sales force CRM
+	- Salesforce CRM
 * Contact form 7 support added.
-* Can switch to any crm at any time
+* Can switch to any CRM at any time
 * Enable Email alerts for each captured data with details
 * Custom url redirection as specified by post id
 * Forms can be used as post/page and widget
 * Can add one email id apart from default admin if enabled.
 
-To capture crm contacts [Go pro Now>>](https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html)
+To capture CRM contacts [Go pro Now>>](https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html)
 
 #### Form Builder ####
 
-Form builder page is used to build the form with enabled fields and you can fetch the crm fields by clicking the 'Fetch CRM Fields'.
+Form builder page is used to build the form with enabled fields and you can fetch the CRM fields by clicking the 'Fetch CRM Fields'.
 The manage shortcodes page displays the list of shortcodes. Click 'Edit' to edit the fields.  
 
 **Two shortcodes types:**
@@ -107,7 +107,7 @@ settings page.
 
 #### Lead Builder Settings ####
 
-* Choose your crm from select plugin
+* Choose your CRM from select plugin
 * Configure the CRM with API details.
 * Capture registering user.
 * Enable debug mode is option available
@@ -121,7 +121,7 @@ settings page.
 Contact form 7 support is the new feature added in the version 1.2.1
 
 * Enable contact form 7 in the settings page to access contact form 7 plugin. 
-* Edit post or widget shotcode
+* Edit post or widget shortcode
 * Select anyone of Bulk Action and Click Save Form Settings to create contact shortcode.
 * shortcode is created in the contact form 7 plugin
 * Enter mail details inside shortcode option. 
@@ -132,7 +132,7 @@ Ninja form and gravity form support [Go pro now>>](https://www.smackcoders.com/w
 #### PRO FEATURES ####
  
 * Generate unlimited forms as short codes 
-* Ninja form,contat form 7 and gravity form support added.
+* Ninja form,contact form 7 and gravity form support added.
 * Duplicate Handling- Choose to skip or update duplicates.
 * Advanced Mandatory Field Form Settings.
 * Assign Captured Lead/Contact To A CRM User.
@@ -142,20 +142,20 @@ Ninja form and gravity form support [Go pro now>>](https://www.smackcoders.com/w
 * Google Captcha version 2 supported.
 * Multiple Language support ( English default , French , Dutch , Russian ,
 Italian ).
-* Capture wordpress User in Lead/Contact module with field mapping option.
+* Capture WordPress User in Lead/Contact module with field mapping option.
 
 [Go pro Now>>](https://www.smackcoders.com/wp-leads-builder-any-crm-pro.html)
 
 
 
 #### Installation ####
-WP Leads Builder Any CRM WP Leads Builder Any CRM is very easy to install like any other wordpress plugin. No need to edit or modify anything here. Users can install the plugin in 3 ways, choose one that suites you from below
+WP Leads Builder Any CRM WP Leads Builder Any CRM is very easy to install like any other WordPress plugin. No need to edit or modify anything here. Users can install the plugin in 3 ways, choose one that suites you from below
 
 **I. For simple general way to install**
 
 * Download the plugin (.zip file) on the right side above menu
-* Click the Red Download Button ( Download Version X.X.X)
-* Login to your Wordpress Admin (e.g. yourdomain.com/wp-admin/)
+* Click the Download Button ( Download Version X.X.X)
+* Login to your WordPress Admin (e.g. yourdomain.com/wp-admin/)
 * Go to Plugins >> Add New
 * Select the tab "Upload"
 * Browse and Upload the downloaded zip file
@@ -165,16 +165,16 @@ WP Leads Builder Any CRM WP Leads Builder Any CRM is very easy to install like a
 **II. For familiar FTP users**
 
 * Download the plugin (.zip file) on the right side above menu
-* Click the Red Download Button ( Download Version X.X.X)
+* Click the Download Button ( Download Version X.X.X)
 * Extract the plugin zip
 * Upload plugin zip to /wp-content/plugins/ 
 * Go to Plugins >> Installed Plugins >> Inactive 
 * Click Activate to activate the plugin
 * You can see a new menu WP Leads Builder Any CRM in your Admin now
 
-**III. Straight from Wordpress Admin**
+**III. Straight from WordPress Admin**
 
-* Login to your Wordpress Admin (e.g. yourdomain.com/wp-admin/)
+* Login to your WordPress Admin (e.g. yourdomain.com/wp-admin/)
 * Go to Plugins >> Add New
 * Search for WP Leads Builder Any CRM
 * Click Install Now to install
@@ -184,15 +184,15 @@ WP Leads Builder Any CRM WP Leads Builder Any CRM is very easy to install like a
  
 #### Screenshots ####
 
-1. WP Leads Builder for any crm settings, select and configure your favourite crm here.
-2. WP Leads Builder for any crm form generator, fetch field from any crm module and generate forms directly as short code without any html work. 
-3. WP Leads Builder for any crm - Preview of generated form as post/page and widget.
+1. WP Leads Builder for any CRM settings, select and configure your favourite CRM here.
+2. WP Leads Builder for any CRM form generator, fetch field from any CRM module and generate forms directly as short code without any html work. 
+3. WP Leads Builder for any CRM - Preview of generated form as post/page and widget.
 4. Contact form 7 plugin support, generated shortcodes.
 5. Contact form 7 settings.
 
 
 #### Frequently Asked Questions ####
 
-How To Install WP Leads Builder Any CRM plugin in wordpress?
+How To Install WP Leads Builder Any CRM plugin in WordPress?
 
 It is simple to install from your wp admin as like any other plugin.
